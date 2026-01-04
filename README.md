@@ -1,7 +1,7 @@
 # Cole Boyer
 ## IT System Administrator and Support
 ### (909) 367-3046
-### coleboyer2013@gmail.com
+<coleboyer2013@gmail.com>
 ### San Jose, CA
 
 ### Summary
