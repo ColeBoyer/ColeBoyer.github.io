@@ -1,12 +1,8 @@
-# ColeBoyer.github.io
-
-This is the personal page for Cole Boyer.
-
-Cole Boyer
-IT System Administrator and Support
-(909) 367-3046
-coleboyer2013@gmail.com
-San Jose, CA
+# Cole Boyer
+## IT System Administrator and Support
+### (909) 367-3046
+### coleboyer2013@gmail.com
+### San Jose, CA
 
 Summary
 
