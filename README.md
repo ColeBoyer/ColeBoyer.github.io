@@ -19,23 +19,25 @@ Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran m
 
 ### Skills
 
-#### Programming
+- Strong analytical and troubleshooting skills with attention to detail
+- Strong written and verbal communication skills
+- Project and team management and leadership 
+- Extensive customer service experience
 
+#### Programming
 - Python
 - HTML/CSS/Javascript
 - Bootstrap.js
 
 #### IT Support
-
 - Helpdesk
+- Point of Sale Programming and Management
 - Networking
 - OS Maintenance
-- Point of Sale Programming and Management
+- Remote and on-site support experience
 
 #### Interpersonal
-
 - Project Management
-- Customer Service
 
 ### Projects
 
@@ -47,12 +49,11 @@ I was heavily involved in rolling out a new Point of Sale for Woodstock's Pizza.
 
 I developed software for an in-house integration between our Point of Sale system and our Payroll System.  I used our Point of Sale's API to generate time clock data to be ingested by Payroll.  I worked closely with our POS and Payroll vendors, as well as our Accounting department to accomplish this project.
 
-
-### Awards
-
-**Admin of the Year** Woodstock's Pizza 2025
-
 ### References
 
 Darryl Turner - Director of Information Technology, Woodstock's Pizza
 <dturner@woodstocksca.com>
+
+### Awards
+
+**Admin of the Year** Woodstock's Pizza 2025
