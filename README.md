@@ -15,7 +15,7 @@ Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran m
 
 ### Credentials
 
-Google IT Support Professional Certificate (December 2025)
+[Google IT Support Professional Certificate](https://coursera.org/share/7dd97e87e1dba23174faebaccb929519) (December 2025)
 
 ### Skills
 
@@ -39,11 +39,11 @@ Google IT Support Professional Certificate (December 2025)
 
 ### Projects
 
-#### Point of Sale Rollout - (2023-2025)
+#### Point of Sale Rollout (2023-2025)
 
 I was heavily involved in rolling out a new Point of Sale for Woodstock's Pizza.  Tasks ranged from the initial buildout of the menu, deploying hardware on site, and long term training and maintenance.
 
-#### Payroll Software Integration - (2024-2025)
+#### Payroll Software Integration (2024-2025)
 
 I developed software for an in-house integration between our Point of Sale system and our Payroll System.  I used our Point of Sale's API to generate time clock data to be ingested by Payroll.  I worked closely with our POS and Payroll vendors, as well as our Accounting department to accomplish this project.
 
