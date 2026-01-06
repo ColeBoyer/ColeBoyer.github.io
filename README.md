@@ -1,4 +1,3 @@
-# Cole Boyer
 ## IT Support Specialist and System Administrator
 <coleboyer2013@gmail.com>
 ### (909) 367-3046 - San Jose, CA
@@ -24,11 +23,6 @@ Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran m
 - Project and team management and leadership 
 - Extensive customer service experience
 
-#### Programming
-- Python
-- HTML/CSS/Javascript
-- Bootstrap.js
-
 #### IT Support
 - Helpdesk
 - Point of Sale Programming and Management
@@ -36,18 +30,20 @@ Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran m
 - OS Maintenance
 - Remote and on-site support experience
 
-#### Interpersonal
-- Project Management
+#### Programming
+- Python
+- HTML/CSS/Javascript
+- Bootstrap.js
 
 ### Projects
 
 #### Point of Sale Rollout (2023-2025)
 
-I was heavily involved in rolling out a new Point of Sale for Woodstock's Pizza.  Tasks ranged from the initial buildout of the menu, deploying hardware on site, and long term training and maintenance.
+I was heavily involved in rolling out a new Point of Sale for Woodstock's Pizza.  Tasks ranged from the initial buildout of the menu, deploying hardware on site, and long term training and support.  In total, I was apart of rolling out four locations, one of which I was project lead.  Long term support involved creating and editing menu items and coupons, ensuring online ordering functionality, and rolling out new pricing annually.
 
 #### Payroll Software Integration (2024-2025)
 
-I developed software for an in-house integration between our Point of Sale system and our Payroll System.  I used our Point of Sale's API to generate time clock data to be ingested by Payroll.  I worked closely with our POS and Payroll vendors, as well as our Accounting department to accomplish this project.
+I developed software for an in-house integration between our Point of Sale system and our Payroll System.  I used our Point of Sale's API to generate time clock data to be ingested by Payroll.  I worked closely with our POS and Payroll vendors, as well as our Accounting department to accomplish this project.  This automated the bulk of payroll, ensuring timely bi-weekly payroll.
 
 ### References
 
