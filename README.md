@@ -8,19 +8,24 @@
 
 San Jose, CA
 
-### Experience
+### Professional Summary
 
-#### IT System Administrator - Woodstock's Pizza, Santa Cruz CA (2021-2025)
+Technology-driven IT Support Specialist who integrates technical understanding with problem-solving skills to expand IT operations.  Highly effective working in large or small teams.  Solid knowledge in Information Technology fundamentals, administrative support, and user management.  Four years of System Administration backed up by ten years of customer service.
 
-Worked as a System Administrator for the largest privately owned pizza comapny in the United States.  I answered help desk tickets, managed and maintained the point of sales system, and collaborated across departments to improve work with technology.
+### Work Experience
 
-#### Shift Lead - Woodstock's Pizza, Santa Cruz CA (2018-2021)
+#### Crew Member - Trader Joes, San Jose CA (September 2025 - Present)
+
+Working at Trader Joe's after moving to San Jose to start a new chapter in my life!  Exploring new opportunities and taking a chance to reconnect with customers.
+
+#### IT System Administrator - Woodstock's Pizza, Santa Cruz CA (August 2021 - August 2025)
+
+Worked as a System Administrator for the largest privately owned pizza comapny in the United States.  I answered help desk tickets, managed and maintained the point of sales system, and collaborated across departments to improve business with technology.
+
+#### Shift Lead - Woodstock's Pizza, Santa Cruz CA (July 2017 - August 2025)
 
 Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran managed the kitchen, ensuring product quality, cash handling, and labor management.
 
-### Credentials
-
-[Google IT Support Professional Certificate](https://coursera.org/share/7dd97e87e1dba23174faebaccb929519) (December 2025)
 
 ### Skills
 
@@ -50,6 +55,13 @@ I was heavily involved in rolling out a new Point of Sale for Woodstock's Pizza.
 #### Payroll Software Integration (2024-2025)
 
 I developed software for an in-house integration between our Point of Sale system and our Payroll System.  I used our Point of Sale's API to generate time clock data to be ingested by Payroll.  I worked closely with our POS and Payroll vendors, as well as our Accounting department to accomplish this project.  This automated the bulk of payroll, ensuring timely bi-weekly payroll.
+
+
+#### Education and Credentials
+
+[Google IT Support Professional Certificate](https://coursera.org/share/7dd97e87e1dba23174faebaccb929519) (December 2025)
+
+Computer Science, University of California, Santa Cruz
 
 ### References
 
