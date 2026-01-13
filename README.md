@@ -25,21 +25,20 @@ Worked as a System Administrator for the largest privately owned pizza comapny i
 Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran managed the kitchen, ensuring product quality, cash handling, and labor management.
 
 
-### Skills
-
+### Skills  
 - Strong analytical and troubleshooting skills with attention to detail
 - Strong written and verbal communication skills
 - Project and team management and leadership 
 - Extensive customer service experience
 
-#### IT Support
+#### IT Support  
 - Helpdesk
 - Point of Sale Programming and Management
 - Networking
 - OS Maintenance
 - Remote and on-site support experience
 
-#### Programming
+#### Programming  
 - Python
 - HTML/CSS/Javascript
 - Bootstrap.js
