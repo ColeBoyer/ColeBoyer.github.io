@@ -2,8 +2,8 @@
 
 
 ### Contact
-<coleboyer2013@gmail.com>
-(909) 367-3046
+<coleboyer2013@gmail.com>  
+(909) 367-3046  
 San Jose, CA
 
 ### Professional Summary
