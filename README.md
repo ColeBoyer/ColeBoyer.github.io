@@ -12,7 +12,12 @@ Technology-driven IT Support Specialist who integrates technical understanding w
 
 ### Work Experience
 
-#### Crew Member - Trader Joes, San Jose CA (September 2025 - Present)
+
+#### IT Help Desk Associate - Managed Facility Solutions (April 2026 - Present)
+
+TBD
+
+#### Crew Member - Trader Joes, San Jose CA (September 2025 - April 2026)
 
 Working at Trader Joe's after moving to San Jose to start a new chapter in my life!  Exploring new opportunities and taking a chance to reconnect with customers.
 
