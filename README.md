@@ -1,6 +1,5 @@
 ## IT Support Specialist and System Administrator
 
-
 ### Contact
 <coleboyer2013@gmail.com>  
 (909) 367-3046  
@@ -12,14 +11,13 @@ Technology-driven IT Support Specialist who integrates technical understanding w
 
 ### Work Experience
 
-
 #### IT Help Desk Associate - Managed Facility Solutions (April 2026 - Present)
 
-TBD
+Working at Managed Facility Solutions as an IT Help Desk Associate.  I was front line IT for San Jose and Austin offices.  I maintained 0365 (Outlook, Teams, Sharepoint), devices (Intune, Apple Business), users (Entra ID), and software for internal services (Quickbase and Python).
 
 #### Crew Member - Trader Joes, San Jose CA (September 2025 - April 2026)
 
-Working at Trader Joe's after moving to San Jose to start a new chapter in my life!  Exploring new opportunities and taking a chance to reconnect with customers.
+Worked at Trader Joe's after moving to San Jose to start a new chapter in my life!  Exploring new opportunities and taking a chance to reconnect with customers.
 
 #### IT System Administrator - Woodstock's Pizza, Santa Cruz CA (August 2021 - August 2025)
 
@@ -29,22 +27,22 @@ Worked as a System Administrator for the largest privately owned pizza comapny i
 
 Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran managed the kitchen, ensuring product quality, cash handling, and labor management.
 
-
 ### Skills  
 - Strong analytical and troubleshooting skills with attention to detail
-- Strong written and verbal communication skills
 - Project and team management and leadership 
+- Strong written and verbal communication skills
 - Extensive customer service experience
 
 #### IT Support  
 - Helpdesk
 - Point of Sale Programming and Management
 - Networking
-- OS Maintenance
+- Device and user management (Intune, Entra ID)
+- Experience with both O365 and Google Workspace
 - Remote and on-site support experience
 
 #### Programming  
-- Python
+- Python (Flask and FastAPI)
 - HTML/CSS/Javascript
 - Bootstrap.js
 
@@ -57,7 +55,6 @@ I was heavily involved in rolling out a new Point of Sale for Woodstock's Pizza.
 #### Payroll Software Integration (2024-2025)
 
 I developed software for an in-house integration between our Point of Sale system and our Payroll System.  I used our Point of Sale's API to generate time clock data to be ingested by Payroll.  I worked closely with our POS and Payroll vendors, as well as our Accounting department to accomplish this project.  This automated the bulk of payroll, ensuring timely bi-weekly payroll.
-
 
 #### Education and Credentials
 
