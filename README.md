@@ -19,6 +19,7 @@ Working at Managed Facility Solutions as an IT Help Desk Associate.  I was front
 
 Worked at Trader Joe's after moving to San Jose to start a new chapter in my life!  Exploring new opportunities and taking a chance to reconnect with customers.
 
+
 #### IT System Administrator - Woodstock's Pizza, Santa Cruz CA (August 2021 - August 2025)
 
 Worked as a System Administrator for the largest privately owned pizza comapny in the United States.  I answered help desk tickets, managed and maintained the point of sales system, and collaborated across departments to improve business with technology.
