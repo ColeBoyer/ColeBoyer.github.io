@@ -46,8 +46,8 @@ Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran m
 #### Programming  
 
 - Python (Flask and FastAPI)
-- HTML/CSS/Javascript
-- Bootstrap.js
+- HTML / CSS / Javascript
+- Bootstrap
 
 ### Projects
 
@@ -58,6 +58,10 @@ I was heavily involved in rolling out a new Point of Sale for Woodstock's Pizza.
 #### Payroll Software Integration (2024-2025)
 
 I developed software in Python for an in-house integration between our Point of Sale system and our Payroll System.  I used our Point of Sale's API to generate time card data to be ingested by Payroll.  I worked closely with our POS and Payroll vendors, as well as our Accounting department to accomplish this project.  This automated the bulk of payroll, ensuring timely bi-weekly payroll.
+
+#### Microservice Refactor for SOC 1 Compliance
+
+I audited and refactored an internal Flask microservice.  Initial codebase was AI generated, and the company could not confirm internal workings.  My refactor ensured data was encrypted at-rest and in-transit at every step of service lifetime, with specific code samples provided.  Refactoring improved legibility and modularity of the project, allowing for easier long-term development.  Finally, after refactoring, I implemented a couple of quality of life features to improve uptime, outage recovery, and computation time.
 
 #### Education and Credentials
 
@@ -72,4 +76,4 @@ Darryl Turner - Director of Information Technology, Woodstock's Pizza
 
 ### Awards
 
-**Admin of the Year** Woodstock's Pizza 2025
+**Admin of the Year** Woodstock's Pizza 2024
