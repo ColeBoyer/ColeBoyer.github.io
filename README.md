@@ -7,7 +7,7 @@ San Jose, CA
 
 ### Professional Summary
 
-Technology-driven IT Support Specialist who integrates technical understanding with problem-solving skills to expand IT operations.  Highly effective working in large or small teams.  Solid knowledge in Information Technology fundamentals, administrative support, and user management.  Four years of System Administration backed up by ten years of customer service.
+Technology-driven IT Support Specialist who integrates technical and practical understanding with problem-solving skills to expand IT operations.  Highly effective working in large or small teams.  Solid knowledge in Information Technology fundamentals, administrative support, and user management.  Five years of System Administration backed up by ten years of customer service.
 
 ### Work Experience
 
@@ -30,18 +30,20 @@ Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran m
 ### Skills  
 - Strong analytical and troubleshooting skills with attention to detail
 - Project and team management and leadership 
-- Strong written and verbal communication skills
+- Strong written and verbal communication and documentation skills
 - Extensive customer service experience
 
-#### IT Support  
-- Helpdesk
+#### IT Support
+
+- Help Desk
+- Software Development for internal services
 - Point of Sale Programming and Management
-- Networking
 - Device and user management (Intune, Entra ID)
 - Experience with both O365 and Google Workspace
 - Remote and on-site support experience
 
 #### Programming  
+
 - Python (Flask and FastAPI)
 - HTML/CSS/Javascript
 - Bootstrap.js
@@ -54,7 +56,7 @@ I was heavily involved in rolling out a new Point of Sale for Woodstock's Pizza.
 
 #### Payroll Software Integration (2024-2025)
 
-I developed software for an in-house integration between our Point of Sale system and our Payroll System.  I used our Point of Sale's API to generate time clock data to be ingested by Payroll.  I worked closely with our POS and Payroll vendors, as well as our Accounting department to accomplish this project.  This automated the bulk of payroll, ensuring timely bi-weekly payroll.
+I developed software in Python for an in-house integration between our Point of Sale system and our Payroll System.  I used our Point of Sale's API to generate time card data to be ingested by Payroll.  I worked closely with our POS and Payroll vendors, as well as our Accounting department to accomplish this project.  This automated the bulk of payroll, ensuring timely bi-weekly payroll.
 
 #### Education and Credentials
 
