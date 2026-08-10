@@ -26,7 +26,7 @@ Worked as a System Administrator for the largest privately owned pizza comapny i
 
 #### Shift Lead - Woodstock's Pizza, Santa Cruz CA (July 2017 - August 2025)
 
-Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran managed the kitchen, ensuring product quality, cash handling, and labor management.
+Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I managed the kitchen, ensured product quality, proper cash handling, and labor management.
 
 ### Skills  
 - Strong analytical and troubleshooting skills with attention to detail
@@ -53,7 +53,7 @@ Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I ran m
 
 #### Point of Sale Rollout (2023-2025)
 
-I was heavily involved in rolling out a new Point of Sale for Woodstock's Pizza.  Tasks ranged from the initial buildout of the menu, deploying hardware on site, and long term training and support.  In total, I was apart of rolling out four locations, one of which I was project lead.  Long term support involved creating and editing menu items and coupons, ensuring online ordering functionality, and rolling out new pricing annually.
+I was heavily involved in rolling out a new Point of Sale for Woodstock's Pizza.  Tasks ranged from the initial buildout of the menu, deploying hardware on site, and long term training and support.  In total, I was a part of rolling out four locations, one of which I was project lead.  Long term support involved creating and editing menu items and coupons, ensuring online ordering functionality, and rolling out new pricing annually.
 
 #### Payroll Software Integration (2024-2025)
 
@@ -61,7 +61,7 @@ I developed software in Python for an in-house integration between our Point of 
 
 #### Microservice Refactor for SOC 1 Compliance
 
-I audited and refactored an internal Flask microservice.  Initial codebase was AI generated, and the company could not confirm internal workings.  My refactor ensured data was encrypted at-rest and in-transit at every step of service lifetime, with specific code samples provided.  Refactoring improved legibility and modularity of the project, allowing for easier long-term development.  Finally, after refactoring, I implemented a couple of quality of life features to improve uptime, outage recovery, and computation time.
+I audited and refactored an internal Flask microservice.  The initial codebase was AI generated, and the company could not confirm internal workings.  My refactor ensured data was encrypted at-rest and in-transit at every step of service lifetime, with specific code samples provided.  Refactoring improved legibility and modularity of the project, allowing for easier long-term development.  Finally, after refactoring, I implemented a couple of quality of life features to improve uptime, outage recovery, and computation time.
 
 #### Education and Credentials
 
