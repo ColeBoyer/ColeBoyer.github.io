@@ -9,32 +9,45 @@ San Jose, CA
 
 Technology-driven IT Support Specialist who integrates technical and practical understanding with problem-solving skills to expand IT operations.  Highly effective working in large or small teams.  Solid knowledge in Information Technology fundamentals, administrative support, and user management.  Five years of System Administration backed up by ten years of customer service.
 
-### Work Experience
+## Work Experience
 
-#### IT Help Desk Associate - Managed Facility Solutions (April 2026 - Present)
+### Pridestaff (San Jose, CA)
 
-Working at Managed Facility Solutions as an IT Help Desk Associate.  I was front line IT for San Jose and Austin offices.  I maintained 0365 (Outlook, Teams, Sharepoint), devices (Intune, Apple Business), users (Entra ID), and software for internal services (Quickbase and Python).
+**Contract IT Help Desk Associate (April 2026 - Present)**
 
-#### Crew Member - Trader Joes, San Jose CA (September 2025 - April 2026)
+Working at different companies providing IT support through Pridestaff.
+
+**Managed Facility Solutions (April 2026 - August 2026)**
+
+Working at Managed Facility Solutions through Pridestaff as an IT Help Desk Associate.  I was front line IT for San Jose and Austin offices.  I maintained 0365 (Outlook, Teams, Sharepoint), devices (Intune, Apple Business), users (Entra ID), and software for internal services (Quickbase and Python).
+
+
+### Trader Joe's (San Jose, CA)
+
+**Crew Member (September 2025 - Present)**
 
 Worked at Trader Joe's after moving to San Jose to start a new chapter in my life!  Exploring new opportunities and taking a chance to reconnect with customers.
 
 
-#### IT System Administrator - Woodstock's Pizza, Santa Cruz CA (August 2021 - August 2025)
+### Woodstock's Pizza (Santa Cruz, CA)
+
+**IT System Administrator (August 2021 - August 2025)**
 
 Worked as a System Administrator for the largest privately owned pizza comapny in the United States.  I answered help desk tickets, managed and maintained the point of sales system, and collaborated across departments to improve business with technology.
 
-#### Shift Lead - Woodstock's Pizza, Santa Cruz CA (July 2017 - August 2025)
+**Shift Lead (2017 - 2025)**
 
 Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I managed the kitchen, ensured product quality, proper cash handling, and labor management.
 
-### Skills  
+
+### Skills
+
 - Strong analytical and troubleshooting skills with attention to detail
 - Project and team management and leadership 
 - Strong written and verbal communication and documentation skills
 - Extensive customer service experience
 
-#### IT Support
+**IT Support**
 
 - Help Desk
 - Software Development for internal services
@@ -43,7 +56,7 @@ Worked as a Shift Lead at the Santa Cruz location of Woodstock's Pizza.  I manag
 - Experience with both O365 and Google Workspace
 - Remote and on-site support experience
 
-#### Programming  
+**Programming**
 
 - Python (Flask and FastAPI)
 - HTML / CSS / Javascript
